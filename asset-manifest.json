@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_redux_restoran/static/css/main.482f25ec.chunk.css",
+    "main.js": "/react_redux_restoran/static/js/main.d2d34454.chunk.js",
+    "main.js.map": "/react_redux_restoran/static/js/main.d2d34454.chunk.js.map",
+    "runtime~main.js": "/react_redux_restoran/static/js/runtime~main.fcd56f69.js",
+    "runtime~main.js.map": "/react_redux_restoran/static/js/runtime~main.fcd56f69.js.map",
+    "static/js/2.da0404ce.chunk.js": "/react_redux_restoran/static/js/2.da0404ce.chunk.js",
+    "static/js/2.da0404ce.chunk.js.map": "/react_redux_restoran/static/js/2.da0404ce.chunk.js.map",
+    "index.html": "/react_redux_restoran/index.html",
+    "precache-manifest.53d34e8dae3b713b3634094eec964db4.js": "/react_redux_restoran/precache-manifest.53d34e8dae3b713b3634094eec964db4.js",
+    "service-worker.js": "/react_redux_restoran/service-worker.js",
+    "static/css/main.482f25ec.chunk.css.map": "/react_redux_restoran/static/css/main.482f25ec.chunk.css.map",
+    "static/media/food-bg.jpg": "/react_redux_restoran/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/react_redux_restoran/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
